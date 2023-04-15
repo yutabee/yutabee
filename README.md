@@ -1,14 +1,14 @@
-## 🇯🇵About Me
+## 🇯🇵 About Me
  * Fukuoka
  * Pharmacist
  * G's ACADEMY FUKUOKA LAB7
  * Developer
-## 💻Intersts
+## 💻 Skills
  * Python
  * Javascript/TypeScript
  * Next.js/React
  * C#/.NET
-## 🍺Like
+## 🍺 Like
 * KickBoxing
 * Beer
  
