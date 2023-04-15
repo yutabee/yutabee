@@ -1,13 +1,18 @@
+![Profile Views](https://komarev.com/ghpvc/?username=yutabee&color=blue)
 ## 🇯🇵 About Me
  * Fukuoka
  * Pharmacist
  * G's ACADEMY FUKUOKA LAB7
  * Developer
 ## 💻 Skills
- * Python
- * Javascript/TypeScript
- * Next.js/React
- * C#/.NET
+ ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+ ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
+ ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff)
+ ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+ ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=ffffff)
+ ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.net&logoColor=ffffff)
+
 ## 🍺 Like
 * KickBoxing
 * Beer
