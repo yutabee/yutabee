@@ -3,9 +3,9 @@
 
 ## 🇯🇵 About Me
  * Fukuoka
- * Pharmacist
- * G's ACADEMY FUKUOKA LAB7
  * Developer
+ * Pharmacist
+ 
 ## 💻 Skills
  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
