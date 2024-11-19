@@ -11,7 +11,7 @@
 </div>
 
 ## 🎓 AWS Certifications
-![AWS Certifications](https://github.com/user-attachments/assets/651dfc47-8e64-4304-ab15-d4b77fbb8dba)
+<img src="https://github.com/user-attachments/assets/651dfc47-8e64-4304-ab15-d4b77fbb8dba" alt="AWS Certifications" width="400" />
 
 - AWS Certified DevOps Engineer - Professional
 - AWS Certified Solutions Architect - Associate
