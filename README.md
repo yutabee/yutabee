@@ -6,7 +6,7 @@
 
 **Software Engineer / COO (SyncBloom) / Technical Consultant**
 
-<img src="https://user-images.githubusercontent.com/96982045/232775881-7b6f69ea-9914-42a2-91b3-6b6a7398cbb2.jpg" alt="Profile Banner" width="800">
+<img src="https://github.com/user-attachments/assets/a622d7c5-4811-45c3-b370-27a37ca4f26c" alt="Profile Banner" width="800">
 
 </div>
 
