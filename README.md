@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Yuta Tamaru
+# Yuta Tamaru
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yutabee&color=blue)
 
